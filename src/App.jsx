@@ -12,7 +12,7 @@ function App() {
         <div className="resume-meta">
           <p><span>Cargo:</span> Desempregada</p>
           <p><span>Cidade:</span> Igaraçu do tiete-SP</p>
-          <p><span>Email:</span> danifaznada@email.com</p>
+          <p><span>Email:</span> danifaznada@gmail.com</p>
         </div>
 
         <p className="resume-note">17 anos existindo</p>
